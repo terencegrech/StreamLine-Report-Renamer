@@ -12,6 +12,7 @@
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
   "options_page": "options.html",
   "permissions": [
+    "tabs",
     "activeTab",
 	"downloads",
 	"*://sol.worldpay.com/solweb/currencyreports/*"
